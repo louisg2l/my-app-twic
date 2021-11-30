@@ -3,6 +3,8 @@ package com.dao;
 import java.sql.Connection;
 import java.sql.SQLException;
 import org.slf4j.LoggerFactory;
+
+import com.config.JDBCConfiguration;
 import com.dto.Coordonnees;
 import com.dto.Ville;
 import java.util.ArrayList;
